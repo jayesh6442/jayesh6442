@@ -15,9 +15,9 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/tadaviral" target="blank"
+  <a href="https://twitter.com/Devjayeshh" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/tadaviral?logo=twitter&style=for-the-badge"
+      src="https://img.shields.io/twitter/follow/Devjayeshh?logo=twitter&style=for-the-badge"
       alt="tadaviral"
   /></a>
 </p>
