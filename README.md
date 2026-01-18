@@ -3,3 +3,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayesh6442&theme=solarized&exclude=jupyter%20notebook)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayesh6442&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayesh6442&theme=solarized)
+![Jayesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayesh6442&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)
