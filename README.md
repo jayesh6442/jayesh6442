@@ -60,7 +60,7 @@ Platform engineer focused on backend systems, infrastructure automation, and rel
 
 ---
 
-### 💼 Professional Expertise
+###  Professional Expertise
 
 - **Containerization & Orchestration**: Docker, Kubernetes (K8s), Helm charts, kubectl
 - **CI/CD Pipelines**: Jenkins, ArgoCD for continuous integration and deployment
@@ -70,23 +70,22 @@ Platform engineer focused on backend systems, infrastructure automation, and rel
 
 ---
 
-### ⚡ One Line That Describes Me Best?
+###  One Line That Describes Me Best?
 
 A DevOps enthusiast who loves automating everything, deploying containers, monitoring metrics, and occasionally debugging production at 2 AM with a cup of coffee. ☕🚀
 
 ---
 
-### 📫 How to Reach Me?
+###  How to Reach Me?
 
 - [LinkedIn](https://www.linkedin.com/in/devjayesh) 
 - [GitHub](https://github.com/jayesh6442)
 - [Email](mailto:notsjayesh@email.com)
 - [x/twitter](https://x.com/Devjayeshh)
 
-I'm always open to collaborating on interesting projects, discussing DevOps best practices, or just having a tech chat! Let's build something amazing together. 🤝
+I'm always open to collaborating on interesting projects, discussing DevOps best practices, or just having a tech chat! Let's build something amazing together. 
 
 ---
-
 <table>
   <tr>
     <td align="center">
@@ -97,4 +96,4 @@ I'm always open to collaborating on interesting projects, discussing DevOps best
     </td>
   </tr>
 </table>
----
+
