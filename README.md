@@ -1,6 +1,6 @@
 # Jayesh Sarvaiya
 
-Platform engineer focused on backend systems, infrastructure automation, and reliable software delivery at scale.
+ Engineer focused on backend systems, infrastructure automation, and reliable software delivery at scale.
 
 ---
 
